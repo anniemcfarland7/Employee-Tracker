@@ -7,6 +7,10 @@ Business owners will be able to view and manage the departments, roles, and empl
 To begin, simply use "node app.js" in the command line.
 
 Repository URL: https://github.com/anniemcfarland7/Employee-Tracker
+Video URL:
+
+##Bugs
+The "Update Employee" and "Add Employee" function are in process of being perfected.
 
 ## Preview
 
