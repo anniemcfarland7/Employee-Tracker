@@ -6,7 +6,7 @@ Employee Tracker is a content management system application that manages a compa
 Business owners will be able to view and manage the departments, roles, and employees in their company, so that they can organize and plan their business.
 To begin, simply use "node app.js" in the command line.
 
-Repository URL: https://github.com/anniemcfarland7/Employee-Tracker
+Repository URL: https://github.com/anniemcfarland7/Employee-Tracker 
 Video URL: https://drive.google.com/file/d/10QVa7ZdkgdipTocjZMqi7LapzeT_LqLJ/view
 
 ## Bugs
