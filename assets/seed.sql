@@ -49,16 +49,26 @@ VALUES ("President", 200000.00, 1),
 
 --- Employee Seeds ---
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Annie", "McFarland", 1, null),
-("Susanna", "McFarland", 7, 1),
-("Curtis", "Correll", 4, 1),
-("Alex", "Correll", 8, 1),
-("Lucas", "Correll", 3, 6),
-("Declan", "Correll", 2, 1),
-("Alaina", "Correll", 9, 4),
-("Caiden", "Correll", 4, 1),
-("Etta", "James", 5, 3),
-("Ella", "Fitzgerald", 6, 2);
+VALUES ("Annie", "McFarland", 1, null);
+INSERT INTO employee (first_name, last_name, role_id, manager_id)
+VALUES ("Susanna", "Lee", 7, 1);
+INSERT INTO employee (first_name, last_name, role_id, manager_id)
+VALUES ("Curtis", "Correll", 4, 1);
+INSERT INTO employee (first_name, last_name, role_id, manager_id)
+VALUES ("Alex", "Leonardo", 8, 1);
+INSERT INTO employee (first_name, last_name, role_id, manager_id)
+VALUES ("Declan", "Bennett", 2, 1);
+INSERT INTO employee (first_name, last_name, role_id, manager_id)
+VALUES ("Lucas", "Scott", 3, 5);
+INSERT INTO employee (first_name, last_name, role_id, manager_id)
+VALUES ("Alaina", "Marie", 9, 4);
+INSERT INTO employee (first_name, last_name, role_id, manager_id)
+VALUES ("Caiden", "Collins", 4, 1);
+INSERT INTO employee (first_name, last_name, role_id, manager_id)
+VALUES ("Etta", "James", 5, 3);
+INSERT INTO employee (first_name, last_name, role_id, manager_id)
+VALUES ("Ella", "Fitzgerald", 6, 2);
+
 
 SELECT * FROM department;
 SELECT * FROM role;
