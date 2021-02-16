@@ -10,6 +10,6 @@ Repository URL: https://github.com/anniemcfarland7/Employee-Tracker
 
 ## Preview
 
-The following image demonstrates the sample Employee Tracker application:
+The following video demonstrates the sample Employee Tracker application:
 
-![Screenshot](./public/assets/screenshot.png)
+![Screenshot](./public/assets/video.gif)
